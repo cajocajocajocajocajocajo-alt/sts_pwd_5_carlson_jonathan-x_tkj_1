@@ -17,9 +17,9 @@ Menjadi Lembaga Keuangan Global terpercaya yang unggul dalam inovasi dan kinerja
 * Menjadi mitra strategis untuk pertumbuhan ekonomi Indonesia.
 
 ## Produk & Layanan Utama
-* BNI Taplus (Produk tabungan utama nasabah perorangan)
-* Wondr by BNI (Aplikasi mobile banking untuk kemudahan transaksi digital)
-* BNI Kartu Kredit (Fasilitas kartu kredit untuk kemudahan transaksi global)
+* BNI Taplus
+* Wondr by BNI
+* BNI Kartu Kredit
 
 ## Logo Perusahaan
 ![Logo Resmi BNI](https://bni.co.id)
@@ -39,7 +39,4 @@ Menjadi Lembaga Keuangan Global terpercaya yang unggul dalam inovasi dan kinerja
 * [Sejarah Bank Negara Indonesia di Wikipedia](https://wikipedia.org)
 
 ## Pernyataan Integritas Akademik
-Dengan ini saya menyatakan bahwa seluruh data yang tercantum dalam dokumen riset dan website ini adalah data yang benar dari perusahaan nyata, diperoleh melalui riset daring yang sah, serta ditulis oleh saya sendiri tanpa melakukan plagiarisme terhadap karya teman atau menggunakan alat bantu pembuat konten otomatis (AI generator) untuk memalsukan data.
-
-## Cara Menjalankan Website
-Buka berkas `index.html` menggunakan browser pilihan Anda (seperti Google Chrome atau Microsoft Edge).
+Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
