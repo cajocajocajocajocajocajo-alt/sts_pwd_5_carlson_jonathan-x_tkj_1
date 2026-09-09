@@ -25,6 +25,7 @@ Menjadi Lembaga Keuangan Global terpercaya yang unggul dalam inovasi dan kinerja
 ![Logo Resmi BNI](https://bni.co.id)
 
 
+
 ## Kontak & Alamat
 * **Alamat Kantor Pusat:** Grha BNI, Jl. Jenderal Sudirman Kav. 1, Jakarta Pusat 10220, Indonesia.
 * **Telepon / Call Center:** BNI Call 1500046
