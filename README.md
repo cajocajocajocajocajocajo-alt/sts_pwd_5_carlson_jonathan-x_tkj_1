@@ -1,6 +1,6 @@
 Nama: Carlson Jonathan
 Nomor Absen: 5
-Kelas: X TKJ 1
+Kelas: X TKJ
 
 # PT Bank Negara Indonesia (Persero) Tbk
 > *Melayani Negeri, Kebanggaan Bangsa*
@@ -17,14 +17,12 @@ Menjadi Lembaga Keuangan Global terpercaya yang unggul dalam inovasi dan kinerja
 * Menjadi mitra strategis untuk pertumbuhan ekonomi Indonesia.
 
 ## Produk & Layanan Utama
-* BNI Taplus
-* Wondr by BNI
-* BNI Kartu Kredit
+* BNI Taplus (Produk tabungan utama nasabah perorangan)
+* Wondr by BNI (Aplikasi mobile banking untuk kemudahan transaksi digital)
+* BNI Kartu Kredit (Fasilitas kartu kredit untuk kemudahan transaksi global)
 
 ## Logo Perusahaan
 ![Logo Resmi BNI](https://bni.co.id)
-
-
 
 ## Kontak & Alamat
 * **Alamat Kantor Pusat:** Grha BNI, Jl. Jenderal Sudirman Kav. 1, Jakarta Pusat 10220, Indonesia.
