@@ -22,7 +22,8 @@ Menjadi Lembaga Keuangan Global terpercaya yang unggul dalam inovasi dan kinerja
 * BNI Kartu Kredit (Fasilitas kartu kredit untuk kemudahan transaksi global)
 
 ## Logo Perusahaan
-![Logo Resmi BNI](images.jpeg)
+![Logo Resmi BNI](https://bni.co.id)
+
 
 ## Kontak & Alamat
 * **Alamat Kantor Pusat:** Grha BNI, Jl. Jenderal Sudirman Kav. 1, Jakarta Pusat 10220, Indonesia.
